@@ -2,15 +2,15 @@
 
 ## Background
 
-Locks are an ancient technology that have maintained relevance in society throughout the centuries. Locks are an integral part of physical security—an oft overlooked component of information security. Locks are part of physical security systems which typically follow a defense in depth approach; as such, locks are not utilized as a stand-alone security mechanism but are implemented as one part of the whole system of physical security.  Lockpicking is just one skill utilized to overcome a layer of physical security.  
+Locks are an ancient technology that have maintained relevance in society throughout the centuries. Locks are an integral part of physical security—an oft overlooked component of information security. Locks are part of physical security systems which typically follow a defense in depth approach; as such, locks are not utilized as a stand-alone security mechanism but are implemented as one part of the whole system of physical security.  Lockpicking is just one skill utilized to overcome a layer of physical security, an important component in electronic security. Much like more advanced cracking algorithms that employ a technique of trial and error, lockpicking provides a hands-on practical application of trial and error to open a lock, a rewarding exercise in and of itself. 
 
 ## Meta Information
 
 | Attribute | Description |
 | --------- |-------------|
 |Summary | Lockpicking – Identify various lock types utilized in physical security and implement techniques to overcome the most common lock, the pin tumbler. |
-| Topics | Lock style variety, lockpick tools, lockpick techniques |
-|Audience | Appropriate for CS1 or later students learning about physical security as a part of information security. |
+| Topics | Lock style variety, lockpick tools, lockpick techniques, physical security component|
+|Audience | Appropriate for CS1 or later students at the start of a physical security lecture series as a part of information security. This assignment is engaging, hands-on and may be classified as a “CS Unplugged” exercise.  |
 | Difficulty | This is an introductory to intermediate level assignment, intended to be covered over the course of 1 to 3 days. |
 |Strengths | Introduction to the vulnerabilities in locks, different lock types. Students also gain fun, hands-on learning with overcoming simple locks. |
 | Weaknesses | May be difficult for some students to grasp ability to overcome locks. |
